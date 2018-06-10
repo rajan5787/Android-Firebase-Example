@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "987649952363",
+    "firebase_url": "https://fir-example-5c1a6.firebaseio.com",
+    "project_id": "fir-example-5c1a6",
+    "storage_bucket": "fir-example-5c1a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987649952363:android:95fdcc80a7dcb0e3",
+        "android_client_info": {
+          "package_name": "rajan5787.tikuraja.androidfirebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987649952363-m2d3uss1d7810cf27lsuv6ht9avbblaf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "987649952363-m2d3uss1d7810cf27lsuv6ht9avbblaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqp7TkE765_tn5AsfpjtH9bGT0a1Mqess"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
