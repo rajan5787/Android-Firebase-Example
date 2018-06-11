@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f7f7f7"
+    android:paddingTop="38dp"
+    tools:context="rajan5787.tikuraja.androidfirebaseexample.AddUser">
+
+    
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_name"
+        android:hint="Studnet Name"
+        android:textSize="18sp"
+        android:padding="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/bg_item_edittext"
+        android:layout_marginBottom="22dp"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_email"
+        android:hint="Studnet Email"
+        android:textSize="18sp"
+        android:padding="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/bg_item_edittext"
+        android:layout_marginBottom="22dp"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_standard"
+        android:hint="Studnet Standard"
+        android:textSize="18sp"
+        android:padding="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/bg_item_edittext"
+        android:layout_marginBottom="22dp"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_number"
+        android:hint="Studnet Number"
+        android:textSize="18sp"
+        android:padding="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginLeft="12dp"
+        android:background="@drawable/bg_item_edittext"
+        android:layout_marginBottom="22dp"/>
+    
+    
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_add"
+        android:background="@drawable/bg_btn"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:text="Add Student"
+        android:padding="18dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginRight="42dp"
+        android:layout_marginLeft="42dp"/>
+</LinearLayout>
